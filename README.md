@@ -31,7 +31,7 @@ A curated list of remarkable resources related to Runes, a standard for fungible
 ### Wallets
 
 * [Unisat](https://unisat.io/download)
-* [Xverse](https://www.xverse.app/)
+* [Xverse](https://www.xverse.app/runes-wallet)
 
 
 ### Explorers
