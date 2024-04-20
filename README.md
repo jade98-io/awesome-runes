@@ -25,6 +25,7 @@ A curated list of remarkable resources related to Runes, a standard for fungible
 * [RunesBridge](https://runes.runesbridge.xyz/)
 * [VikingRunes](https://vikingrunes.io/runesPump)
 * [BtcToolPro](https://www.btctool.pro/runes)
+* [RuneToshi](https://runetoshi.com/etch)
 
 
 ### Wallets
@@ -56,6 +57,7 @@ A curated list of remarkable resources related to Runes, a standard for fungible
 
 * [BtcTool](https://www.btctool.pro/hot-mint) - bubble view on runes activities
 * [RuneMine](https://app.runemine.com/rune) - number of runes, #of mints, most minted, recently minted, amount, portfolio
+* [RuneToshi](https://runetoshi.com/analytics)
 
 ### Developer Tools
 
